@@ -1,2 +1,25 @@
-# Zippy_CLI
-Zippy CLI is a fast, minimal, and developer-friendly command-line tool designed to streamline your workflow. Quickly scaffold projects, run custom tasks, and boost productivity with intuitive commands. Perfect for developers who want speed, simplicity, and power at their fingertips.
+# Zippy CLI ⚡
+
+A fast and minimal command-line tool to boost your workflow.
+
+## 🚀 Features
+
+- `zippy init`: Initialize a new project.
+- `zippy run`: Run a predefined task.
+
+## 📦 Installation
+
+```bash
+npm install -g zippy-cli
+```
+
+## 🛠 Usage
+
+```bash
+zippy init
+zippy run
+```
+
+## 📄 License
+
+MIT

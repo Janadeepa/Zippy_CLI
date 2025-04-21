@@ -1,0 +1,24 @@
+{
+  "name": "zippy-cli",
+  "version": "1.0.0",
+  "description": "⚡ A fast and minimal CLI to boost your workflow",
+  "main": "index.js",
+  "bin": {
+    "zippy": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "workflow",
+    "minimal",
+    "fast"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.0.0"
+  }
+}
